@@ -5,7 +5,7 @@ Libros estáticos por un tiempo determinado.
 Esta es una colección de libros en español en texto plano (.txt) que serán utilizados para algunas investigaciones, todos provienen del Proyecto Gutemberg [^fn1]. 
 
 ## ¿Porqué es necesario?
-Los textos cambian por corrección de errores, esto es comprobado al inicio de los textos en su fecha de lanzamiento y la fecha de última modificación en las páginas web correspondientes [^fn2][^fn3][^fn4][^fn5][^fn6].
+Los textos cambian por corrección de errores, esto es comprobado al inicio de los textos en su fecha de lanzamiento y la fecha de última modificación en las páginas web utilizadas [^fn2][^fn3][^fn4][^fn5][^fn6].
 
 La idea de mantener estáticos los textos por un tiempo es para que las investigaciones sean reproducibles.
 
